@@ -1,0 +1,364 @@
+Id : 0
+Order : id : 100, direction : sell, price : 99.57, quantity : 1, date : 2022-12-12 15:40:18.552994
+limitOrder : id : 40, direction : buy, price : 99.84, quantity : 12, date : 2022-12-12 15:40:17.614005
+time : 2022-12-12 15:40:18.716963 
+Id : 1
+Order : Id : 0, direction : sell, quantity : 6, submitted_time : 2022-12-12 15:40:18.583950
+limitOrder : id : 40, direction : buy, price : 99.84, quantity : 11, date : 2022-12-12 15:40:17.614005
+time : 2022-12-12 15:40:18.824898 
+Id : 2
+Order : Id : 1, direction : sell, quantity : 4, submitted_time : 2022-12-12 15:40:18.630537
+limitOrder : id : 40, direction : buy, price : 99.84, quantity : 5, date : 2022-12-12 15:40:17.614005
+time : 2022-12-12 15:40:18.973910 
+Id : 3
+Order : Id : 2, direction : sell, quantity : 15, submitted_time : 2022-12-12 15:40:18.646106
+limitOrder : id : 40, direction : buy, price : 99.84, quantity : 1, date : 2022-12-12 15:40:17.614005
+time : 2022-12-12 15:40:19.030876 
+Id : 4
+Order : Id : 2, direction : sell, quantity : 14, submitted_time : 2022-12-12 15:40:18.646106
+limitOrder : id : 24, direction : buy, price : 99.72, quantity : 10, date : 2022-12-12 15:40:17.365819
+time : 2022-12-12 15:40:19.049831 
+Id : 5
+Order : Id : 2, direction : sell, quantity : 4, submitted_time : 2022-12-12 15:40:18.646106
+limitOrder : id : 67, direction : buy, price : 99.0, quantity : 10, date : 2022-12-12 15:40:18.037886
+time : 2022-12-12 15:40:19.069365 
+Id : 6
+Order : Id : 3, direction : buy, quantity : 22, submitted_time : 2022-12-12 15:40:18.662275
+limitOrder : id : 3, direction : sell, price : 100.27, quantity : 6, date : 2022-12-12 15:40:17.036801
+time : 2022-12-12 15:40:19.120713 
+Id : 7
+Order : Id : 3, direction : buy, quantity : 16, submitted_time : 2022-12-12 15:40:18.662275
+limitOrder : id : 19, direction : sell, price : 100.29, quantity : 39, date : 2022-12-12 15:40:17.285662
+time : 2022-12-12 15:40:19.140652 
+Id : 8
+Order : Id : 4, direction : sell, quantity : 18, submitted_time : 2022-12-12 15:40:18.678288
+limitOrder : id : 67, direction : buy, price : 99.0, quantity : 6, date : 2022-12-12 15:40:18.037886
+time : 2022-12-12 15:40:19.184491 
+Id : 9
+Order : Id : 4, direction : sell, quantity : 12, submitted_time : 2022-12-12 15:40:18.678288
+limitOrder : id : 75, direction : buy, price : 98.66, quantity : 12, date : 2022-12-12 15:40:18.162902
+time : 2022-12-12 15:40:19.204447 
+Id : 10
+Order : Id : 5, direction : sell, quantity : 34, submitted_time : 2022-12-12 15:40:18.694036
+limitOrder : id : 42, direction : buy, price : 98.23, quantity : 4, date : 2022-12-12 15:40:17.644902
+time : 2022-12-12 15:40:19.248286 
+Id : 11
+Order : Id : 5, direction : sell, quantity : 30, submitted_time : 2022-12-12 15:40:18.694036
+limitOrder : id : 84, direction : buy, price : 97.96, quantity : 14, date : 2022-12-12 15:40:18.302024
+time : 2022-12-12 15:40:19.268211 
+Id : 12
+Order : Id : 5, direction : sell, quantity : 16, submitted_time : 2022-12-12 15:40:18.694036
+limitOrder : id : 26, direction : buy, price : 97.95, quantity : 23, date : 2022-12-12 15:40:17.396251
+time : 2022-12-12 15:40:19.289154 
+Id : 0
+Order : Id : 0, direction : sell, quantity : 96, submitted_time : 2022-12-12 15:42:11.514226
+limitOrder : id : 91, direction : buy, price : 99.96, quantity : 114, date : 2022-12-12 15:42:11.372507
+time : 2022-12-12 15:42:11.697463 
+Id : 1
+Order : id : 100, direction : sell, price : 99.59, quantity : 101, date : 2022-12-12 15:42:11.530296
+limitOrder : id : 91, direction : buy, price : 99.96, quantity : 18, date : 2022-12-12 15:42:11.372507
+time : 2022-12-12 15:42:11.756040 
+Id : 2
+Order : Id : 1, direction : buy, quantity : 116, submitted_time : 2022-12-12 15:42:11.545455
+limitOrder : id : 100, direction : sell, price : 99.59, quantity : 83, date : 2022-12-12 15:42:11.530296
+time : 2022-12-12 15:42:11.830435 
+Id : 3
+Order : Id : 1, direction : buy, quantity : 33, submitted_time : 2022-12-12 15:42:11.545455
+limitOrder : id : 72, direction : sell, price : 100.23, quantity : 99, date : 2022-12-12 15:42:11.076948
+time : 2022-12-12 15:42:11.848374 
+Id : 0
+Order : Id : 0, direction : sell, quantity : 15, submitted_time : 2022-12-12 15:42:49.144297
+limitOrder : id : 6, direction : buy, price : 99.47, quantity : 21, date : 2022-12-12 15:42:47.688601
+time : 2022-12-12 15:42:49.314058 
+Id : 1
+Order : Id : 1, direction : buy, quantity : 23, submitted_time : 2022-12-12 15:42:49.159957
+limitOrder : id : 60, direction : sell, price : 100.0, quantity : 10, date : 2022-12-12 15:42:48.523855
+time : 2022-12-12 15:42:49.364888 
+Id : 2
+Order : Id : 1, direction : buy, quantity : 13, submitted_time : 2022-12-12 15:42:49.159957
+limitOrder : id : 59, direction : sell, price : 100.1, quantity : 10, date : 2022-12-12 15:42:48.509004
+time : 2022-12-12 15:42:49.383815 
+Id : 3
+Order : Id : 1, direction : buy, quantity : 3, submitted_time : 2022-12-12 15:42:49.159957
+limitOrder : id : 39, direction : sell, price : 100.17, quantity : 0, date : 2022-12-12 15:42:48.199330
+time : 2022-12-12 15:42:49.404755 
+Id : 4
+Order : Id : 1, direction : buy, quantity : 3, submitted_time : 2022-12-12 15:42:49.159957
+limitOrder : id : 4, direction : sell, price : 100.49, quantity : 18, date : 2022-12-12 15:42:47.657661
+time : 2022-12-12 15:42:49.425702 
+Id : 5
+Order : id : 100, direction : sell, price : 98.23, quantity : 2, date : 2022-12-12 15:42:49.175915
+limitOrder : id : 6, direction : buy, price : 99.47, quantity : 6, date : 2022-12-12 15:42:47.688601
+time : 2022-12-12 15:42:49.478490 
+Id : 6
+Order : id : 101, direction : sell, price : 98.46, quantity : 3, date : 2022-12-12 15:42:49.191825
+limitOrder : id : 6, direction : buy, price : 99.47, quantity : 4, date : 2022-12-12 15:42:47.688601
+time : 2022-12-12 15:42:49.521346 
+Id : 7
+Order : Id : 2, direction : sell, quantity : 1, submitted_time : 2022-12-12 15:42:49.206967
+limitOrder : id : 6, direction : buy, price : 99.47, quantity : 1, date : 2022-12-12 15:42:47.688601
+time : 2022-12-12 15:42:49.568190 
+Id : 8
+Order : Id : 3, direction : sell, quantity : 24, submitted_time : 2022-12-12 15:42:49.222923
+limitOrder : id : 45, direction : buy, price : 99.14, quantity : 5, date : 2022-12-12 15:42:48.291296
+time : 2022-12-12 15:42:49.617028 
+Id : 9
+Order : Id : 3, direction : sell, quantity : 19, submitted_time : 2022-12-12 15:42:49.222923
+limitOrder : id : 3, direction : buy, price : 98.88, quantity : 19, date : 2022-12-12 15:42:47.641921
+time : 2022-12-12 15:42:49.636960 
+Id : 10
+Order : Id : 4, direction : buy, quantity : 13, submitted_time : 2022-12-12 15:42:49.238947
+limitOrder : id : 4, direction : sell, price : 100.49, quantity : 15, date : 2022-12-12 15:42:47.657661
+time : 2022-12-12 15:42:49.694762 
+Id : 11
+Order : Id : 5, direction : sell, quantity : 14, submitted_time : 2022-12-12 15:42:49.284054
+limitOrder : id : 67, direction : buy, price : 98.24, quantity : 17, date : 2022-12-12 15:42:48.631676
+time : 2022-12-12 15:42:49.834399 
+Id : 0
+Order : Id : 0, direction : sell, quantity : 33, submitted_time : 2022-12-12 15:43:39.346468
+limitOrder : id : 51, direction : buy, price : 99.43, quantity : 29, date : 2022-12-12 15:43:38.585574
+time : 2022-12-12 15:43:39.510788 
+Id : 1
+Order : Id : 0, direction : sell, quantity : 4, submitted_time : 2022-12-12 15:43:39.346468
+limitOrder : id : 85, direction : buy, price : 99.24, quantity : 5, date : 2022-12-12 15:43:39.114939
+time : 2022-12-12 15:43:39.532475 
+Id : 2
+Order : Id : 1, direction : sell, quantity : 31, submitted_time : 2022-12-12 15:43:39.361584
+limitOrder : id : 85, direction : buy, price : 99.24, quantity : 1, date : 2022-12-12 15:43:39.114939
+time : 2022-12-12 15:43:39.586665 
+Id : 3
+Order : Id : 1, direction : sell, quantity : 30, submitted_time : 2022-12-12 15:43:39.361584
+limitOrder : id : 38, direction : buy, price : 99.04, quantity : 5, date : 2022-12-12 15:43:38.382707
+time : 2022-12-12 15:43:39.607594 
+Id : 4
+Order : Id : 1, direction : sell, quantity : 25, submitted_time : 2022-12-12 15:43:39.361584
+limitOrder : id : 30, direction : buy, price : 98.76, quantity : 10, date : 2022-12-12 15:43:38.256607
+time : 2022-12-12 15:43:39.626534 
+Id : 5
+Order : Id : 1, direction : sell, quantity : 15, submitted_time : 2022-12-12 15:43:39.361584
+limitOrder : id : 28, direction : buy, price : 98.48, quantity : 8, date : 2022-12-12 15:43:38.224876
+time : 2022-12-12 15:43:39.646483 
+Id : 6
+Order : Id : 1, direction : sell, quantity : 7, submitted_time : 2022-12-12 15:43:39.361584
+limitOrder : id : 22, direction : buy, price : 98.18, quantity : 31, date : 2022-12-12 15:43:38.131465
+time : 2022-12-12 15:43:39.665447 
+Id : 7
+Order : Id : 2, direction : buy, quantity : 9, submitted_time : 2022-12-12 15:43:39.392906
+limitOrder : id : 24, direction : sell, price : 100.92, quantity : 11, date : 2022-12-12 15:43:38.162663
+time : 2022-12-12 15:43:39.758049 
+Id : 0
+Order : Id : 0, direction : sell, quantity : 19, submitted_time : 2022-12-12 15:44:11.430645
+limitOrder : id : 6, direction : buy, price : 7.53, quantity : 12, date : 2022-12-12 15:44:11.369769
+time : 2022-12-12 15:44:11.500759 
+Id : 1
+Order : Id : 0, direction : sell, quantity : 7, submitted_time : 2022-12-12 15:44:11.430645
+limitOrder : id : 0, direction : buy, price : 5.73, quantity : 2, date : 2022-12-12 15:44:11.276240
+time : 2022-12-12 15:44:11.520634 
+Id : 2
+Order : Id : 0, direction : sell, quantity : 5, submitted_time : 2022-12-12 15:44:11.430645
+limitOrder : id : 3, direction : buy, price : 0.72, quantity : 23, date : 2022-12-12 15:44:11.322845
+time : 2022-12-12 15:44:11.541583 
+Id : 3
+Order : Id : 1, direction : sell, quantity : 14, submitted_time : 2022-12-12 15:44:11.445589
+limitOrder : id : 3, direction : buy, price : 0.72, quantity : 18, date : 2022-12-12 15:44:11.322845
+time : 2022-12-12 15:44:11.589580 
+Id : 4
+Order : Id : 2, direction : sell, quantity : 9, submitted_time : 2022-12-12 15:44:11.476776
+limitOrder : id : 3, direction : buy, price : 0.72, quantity : 4, date : 2022-12-12 15:44:11.322845
+time : 2022-12-12 15:44:11.681760 
+Id : 5
+Order : Id : 0, direction : sell, quantity : 5, submitted_time : 2022-12-12 15:44:11.430645
+limitOrder : id : 20, direction : buy, price : 7.08, quantity : 22, date : 2022-12-12 15:44:15.742863
+time : 2022-12-12 15:44:15.843424 
+Id : 6
+Order : Id : 1, direction : sell, quantity : 14, submitted_time : 2022-12-12 15:44:11.445589
+limitOrder : id : 20, direction : buy, price : 7.08, quantity : 17, date : 2022-12-12 15:44:15.742863
+time : 2022-12-12 15:44:15.895249 
+Id : 7
+Order : Id : 2, direction : sell, quantity : 5, submitted_time : 2022-12-12 15:44:11.476776
+limitOrder : id : 20, direction : buy, price : 7.08, quantity : 3, date : 2022-12-12 15:44:15.742863
+time : 2022-12-12 15:44:15.997291 
+Id : 8
+Order : Id : 2, direction : sell, quantity : 2, submitted_time : 2022-12-12 15:44:11.476776
+limitOrder : id : 15, direction : buy, price : 1.56, quantity : 26, date : 2022-12-12 15:44:15.664812
+time : 2022-12-12 15:44:16.017224 
+Id : 9
+Order : Id : 3, direction : buy, quantity : 13, submitted_time : 2022-12-12 15:44:15.774500
+limitOrder : id : 11, direction : sell, price : 0.72, quantity : 5, date : 2022-12-12 15:44:11.701706
+time : 2022-12-12 15:44:16.062116 
+Id : 10
+Order : Id : 3, direction : buy, quantity : 8, submitted_time : 2022-12-12 15:44:15.774500
+limitOrder : id : 12, direction : sell, price : 11.43, quantity : 6, date : 2022-12-12 15:44:15.618757
+time : 2022-12-12 15:44:16.082050 
+Id : 11
+Order : Id : 3, direction : buy, quantity : 2, submitted_time : 2022-12-12 15:44:15.774500
+limitOrder : id : 21, direction : sell, price : 12.27, quantity : 0, date : 2022-12-12 15:44:15.758706
+time : 2022-12-12 15:44:16.103980 
+Id : 12
+Order : Id : 3, direction : buy, quantity : 2, submitted_time : 2022-12-12 15:44:15.774500
+limitOrder : id : 5, direction : sell, price : 13.43, quantity : 14, date : 2022-12-12 15:44:11.353790
+time : 2022-12-12 15:44:16.124904 
+Id : 13
+Order : Id : 4, direction : sell, quantity : 29, submitted_time : 2022-12-12 15:44:15.805359
+limitOrder : id : 15, direction : buy, price : 1.56, quantity : 24, date : 2022-12-12 15:44:15.664812
+time : 2022-12-12 15:44:16.224268 
+Id : 14
+Order : Id : 0, direction : sell, quantity : 5, submitted_time : 2022-12-12 15:44:11.430645
+limitOrder : id : 29, direction : buy, price : 3.7, quantity : 10, date : 2022-12-12 15:44:20.879877
+time : 2022-12-12 15:44:20.992588 
+Id : 15
+Order : Id : 1, direction : sell, quantity : 14, submitted_time : 2022-12-12 15:44:11.445589
+limitOrder : id : 29, direction : buy, price : 3.7, quantity : 5, date : 2022-12-12 15:44:20.879877
+time : 2022-12-12 15:44:21.040784 
+Id : 16
+Order : Id : 0, direction : sell, quantity : 5, submitted_time : 2022-12-12 15:44:11.430645
+limitOrder : id : 118, direction : buy, price : 9.97, quantity : 19, date : 2022-12-12 15:44:27.042710
+time : 2022-12-12 15:44:27.505359 
+Id : 17
+Order : Id : 1, direction : sell, quantity : 9, submitted_time : 2022-12-12 15:44:11.445589
+limitOrder : id : 118, direction : buy, price : 9.97, quantity : 14, date : 2022-12-12 15:44:27.042710
+time : 2022-12-12 15:44:27.565208 
+Id : 18
+Order : Id : 2, direction : sell, quantity : 2, submitted_time : 2022-12-12 15:44:11.476776
+limitOrder : id : 118, direction : buy, price : 9.97, quantity : 5, date : 2022-12-12 15:44:27.042710
+time : 2022-12-12 15:44:27.672699 
+Id : 19
+Order : Id : 3, direction : buy, quantity : 2, submitted_time : 2022-12-12 15:44:15.774500
+limitOrder : id : 24, direction : sell, price : 1.56, quantity : 5, date : 2022-12-12 15:44:16.252196
+time : 2022-12-12 15:44:27.736975 
+Id : 20
+Order : Id : 4, direction : sell, quantity : 5, submitted_time : 2022-12-12 15:44:15.805359
+limitOrder : id : 118, direction : buy, price : 9.97, quantity : 3, date : 2022-12-12 15:44:27.042710
+time : 2022-12-12 15:44:27.831983 
+Id : 21
+Order : Id : 4, direction : sell, quantity : 2, submitted_time : 2022-12-12 15:44:15.805359
+limitOrder : id : 101, direction : buy, price : 9.85, quantity : 7, date : 2022-12-12 15:44:26.776300
+time : 2022-12-12 15:44:27.855863 
+Id : 22
+Order : Id : 5, direction : sell, quantity : 17, submitted_time : 2022-12-12 15:44:27.338118
+limitOrder : id : 101, direction : buy, price : 9.85, quantity : 5, date : 2022-12-12 15:44:26.776300
+time : 2022-12-12 15:44:28.021879 
+Id : 23
+Order : Id : 5, direction : sell, quantity : 12, submitted_time : 2022-12-12 15:44:27.338118
+limitOrder : id : 70, direction : buy, price : 9.77, quantity : 9, date : 2022-12-12 15:44:26.296464
+time : 2022-12-12 15:44:28.050825 
+Id : 24
+Order : Id : 5, direction : sell, quantity : 3, submitted_time : 2022-12-12 15:44:27.338118
+limitOrder : id : 53, direction : buy, price : 9.68, quantity : 5, date : 2022-12-12 15:44:26.034789
+time : 2022-12-12 15:44:28.074744 
+Id : 25
+Order : id : 137, direction : buy, price : 3.5, quantity : 10, date : 2022-12-12 15:44:27.353326
+limitOrder : id : 24, direction : sell, price : 1.56, quantity : 3, date : 2022-12-12 15:44:16.252196
+time : 2022-12-12 15:44:28.139230 
+Id : 26
+Order : id : 138, direction : buy, price : 12.83, quantity : 15, date : 2022-12-12 15:44:27.368428
+limitOrder : id : 36, direction : sell, price : 3.7, quantity : 9, date : 2022-12-12 15:44:21.064706
+time : 2022-12-12 15:44:28.220933 
+Id : 27
+Order : id : 138, direction : buy, price : 12.83, quantity : 6, date : 2022-12-12 15:44:27.368428
+limitOrder : id : 25, direction : sell, price : 10.06, quantity : 26, date : 2022-12-12 15:44:20.816980
+time : 2022-12-12 15:44:28.243872 
+Id : 28
+Order : Id : 6, direction : sell, quantity : 22, submitted_time : 2022-12-12 15:44:27.384322
+limitOrder : id : 53, direction : buy, price : 9.68, quantity : 2, date : 2022-12-12 15:44:26.034789
+time : 2022-12-12 15:44:28.299670 
+Id : 29
+Order : Id : 6, direction : sell, quantity : 20, submitted_time : 2022-12-12 15:44:27.384322
+limitOrder : id : 122, direction : buy, price : 9.38, quantity : 11, date : 2022-12-12 15:44:27.103919
+time : 2022-12-12 15:44:28.322601 
+Id : 30
+Order : Id : 6, direction : sell, quantity : 9, submitted_time : 2022-12-12 15:44:27.384322
+limitOrder : id : 116, direction : buy, price : 9.15, quantity : 22, date : 2022-12-12 15:44:27.011114
+time : 2022-12-12 15:44:28.346637 
+Id : 31
+Order : Id : 7, direction : sell, quantity : 11, submitted_time : 2022-12-12 15:44:27.399794
+limitOrder : id : 116, direction : buy, price : 9.15, quantity : 13, date : 2022-12-12 15:44:27.011114
+time : 2022-12-12 15:44:28.407648 
+Id : 32
+Order : Id : 8, direction : sell, quantity : 26, submitted_time : 2022-12-12 15:44:27.415264
+limitOrder : id : 116, direction : buy, price : 9.15, quantity : 2, date : 2022-12-12 15:44:27.011114
+time : 2022-12-12 15:44:28.469028 
+Id : 33
+Order : Id : 8, direction : sell, quantity : 24, submitted_time : 2022-12-12 15:44:27.415264
+limitOrder : id : 40, direction : buy, price : 9.04, quantity : 11, date : 2022-12-12 15:44:25.832783
+time : 2022-12-12 15:44:28.495882 
+Id : 34
+Order : Id : 8, direction : sell, quantity : 13, submitted_time : 2022-12-12 15:44:27.415264
+limitOrder : id : 62, direction : buy, price : 8.62, quantity : 8, date : 2022-12-12 15:44:26.174041
+time : 2022-12-12 15:44:28.531809 
+Id : 35
+Order : Id : 8, direction : sell, quantity : 5, submitted_time : 2022-12-12 15:44:27.415264
+limitOrder : id : 89, direction : buy, price : 8.49, quantity : 4, date : 2022-12-12 15:44:26.590649
+time : 2022-12-12 15:44:28.558387 
+Id : 36
+Order : Id : 8, direction : sell, quantity : 1, submitted_time : 2022-12-12 15:44:27.415264
+limitOrder : id : 108, direction : buy, price : 8.17, quantity : 17, date : 2022-12-12 15:44:26.884715
+time : 2022-12-12 15:44:28.587891 
+Id : 37
+Order : Id : 9, direction : sell, quantity : 23, submitted_time : 2022-12-12 15:44:27.446854
+limitOrder : id : 108, direction : buy, price : 8.17, quantity : 16, date : 2022-12-12 15:44:26.884715
+time : 2022-12-12 15:44:28.704648 
+Id : 38
+Order : Id : 9, direction : sell, quantity : 7, submitted_time : 2022-12-12 15:44:27.446854
+limitOrder : id : 50, direction : buy, price : 7.83, quantity : 9, date : 2022-12-12 15:44:25.987864
+time : 2022-12-12 15:44:28.729567 
+Id : 39
+Order : Id : 10, direction : buy, quantity : 10, submitted_time : 2022-12-12 15:44:27.462333
+limitOrder : id : 25, direction : sell, price : 10.06, quantity : 20, date : 2022-12-12 15:44:20.816980
+time : 2022-12-12 15:44:28.782649 
+Id : 0
+Order : Id : 0, direction : sell, quantity : 118, submitted_time : 2022-12-12 15:45:34.721326
+limitOrder : id : 89, direction : buy, price : 99.75, quantity : 104, date : 2022-12-12 15:45:34.549386
+time : 2022-12-12 15:45:34.884597 
+Id : 1
+Order : Id : 0, direction : sell, quantity : 14, submitted_time : 2022-12-12 15:45:34.721326
+limitOrder : id : 39, direction : buy, price : 99.69, quantity : 119, date : 2022-12-12 15:45:33.772439
+time : 2022-12-12 15:45:34.911857 
+Id : 2
+Order : Id : 1, direction : buy, quantity : 109, submitted_time : 2022-12-12 15:45:34.737334
+limitOrder : id : 32, direction : sell, price : 100.28, quantity : 124, date : 2022-12-12 15:45:33.662757
+time : 2022-12-12 15:45:34.960812 
+Id : 3
+Order : Id : 2, direction : sell, quantity : 117, submitted_time : 2022-12-12 15:45:34.752702
+limitOrder : id : 39, direction : buy, price : 99.69, quantity : 105, date : 2022-12-12 15:45:33.772439
+time : 2022-12-12 15:45:35.005669 
+Id : 4
+Order : Id : 2, direction : sell, quantity : 12, submitted_time : 2022-12-12 15:45:34.752702
+limitOrder : id : 30, direction : buy, price : 99.28, quantity : 104, date : 2022-12-12 15:45:33.632381
+time : 2022-12-12 15:45:35.024604 
+Id : 5
+Order : Id : 3, direction : buy, quantity : 111, submitted_time : 2022-12-12 15:45:34.768151
+limitOrder : id : 32, direction : sell, price : 100.28, quantity : 15, date : 2022-12-12 15:45:33.662757
+time : 2022-12-12 15:45:35.065494 
+Id : 6
+Order : Id : 3, direction : buy, quantity : 96, submitted_time : 2022-12-12 15:45:34.768151
+limitOrder : id : 73, direction : sell, price : 100.42, quantity : 77, date : 2022-12-12 15:45:34.298941
+time : 2022-12-12 15:45:35.083428 
+Id : 7
+Order : Id : 3, direction : buy, quantity : 19, submitted_time : 2022-12-12 15:45:34.768151
+limitOrder : id : 46, direction : sell, price : 100.64, quantity : 113, date : 2022-12-12 15:45:33.880370
+time : 2022-12-12 15:45:35.103363 
+Id : 8
+Order : Id : 4, direction : sell, quantity : 104, submitted_time : 2022-12-12 15:45:34.783021
+limitOrder : id : 30, direction : buy, price : 99.28, quantity : 92, date : 2022-12-12 15:45:33.632381
+time : 2022-12-12 15:45:35.143227 
+Id : 9
+Order : Id : 4, direction : sell, quantity : 12, submitted_time : 2022-12-12 15:45:34.783021
+limitOrder : id : 7, direction : buy, price : 99.19, quantity : 102, date : 2022-12-12 15:45:33.278941
+time : 2022-12-12 15:45:35.161187 
+Id : 10
+Order : Id : 5, direction : sell, quantity : 105, submitted_time : 2022-12-12 15:45:34.829960
+limitOrder : id : 7, direction : buy, price : 99.19, quantity : 90, date : 2022-12-12 15:45:33.278941
+time : 2022-12-12 15:45:35.305083 
+Id : 11
+Order : Id : 5, direction : sell, quantity : 15, submitted_time : 2022-12-12 15:45:34.829960
+limitOrder : id : 21, direction : buy, price : 99.1, quantity : 105, date : 2022-12-12 15:45:33.494909
+time : 2022-12-12 15:45:35.327975 
+Id : 12
+Order : Id : 6, direction : buy, quantity : 116, submitted_time : 2022-12-12 15:45:34.860682
+limitOrder : id : 46, direction : sell, price : 100.64, quantity : 94, date : 2022-12-12 15:45:33.880370
+time : 2022-12-12 15:45:35.426577 
+Id : 13
+Order : Id : 6, direction : buy, quantity : 22, submitted_time : 2022-12-12 15:45:34.860682
+limitOrder : id : 64, direction : sell, price : 100.93, quantity : 96, date : 2022-12-12 15:45:34.160176
+time : 2022-12-12 15:45:35.447508 
